@@ -37,3 +37,12 @@ where:
 
 The project also demonstrates **fast modular exponentiation (square-and-multiply)**, which makes RSA possible in practice.
 
+
+## 🔧 Compilation
+
+On macOS or Linux:
+```bash
+gcc rsa_toy.c -o rsa
+./rsa
+```
+
