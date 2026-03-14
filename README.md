@@ -1,6 +1,6 @@
 # RSA Toy Implementation
 
-⚠️ **WARNING: This project is for learning purposes only.**  
+**This project is for learning purposes only.**  
 It uses very small primes and does not include padding or any real security measures.  
 **Do not use this implementation in practice.**
 
